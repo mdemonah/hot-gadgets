@@ -1,0 +1,55 @@
+*{
+    border: 0;
+    margin: 0;
+}
+.navbar-brand img{
+    height:50px;
+}
+.col-2{
+    height:100px;
+    width: 100px;
+}
+.col-5 p{
+    color:gray;
+}
+.robot{
+    padding-bottom:100px;
+}
+h4{
+    color:gray;
+}
+h6{
+    color:orange;
+    cursor: pointer;
+}
+.text{
+    padding-bottom: 30px;
+}
+.card{
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 10%;
+}
+.card-text{
+    text-align: center;
+    color:gray;
+}
+.center h3{
+    border-bottom:5px solid orange;
+    padding-bottom: 10px;
+}
+.right{
+    float:right;
+    width:50%;
+    height:auto;
+}
+.right img{
+    width:100%;
+    padding-left:500px;
+}
+.left{
+    float:left;
+    padding-top:100px;
+}
+.style-i{
+    margin-top:160px;
+}
